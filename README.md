@@ -1,5 +1,3 @@
-# Azure Security Engineering Labs
-Hands-on Azure security engineering labs focused on Microsoft Entra ID, RBAC, Conditional Access 
 Azure Security Engineering Labs
 
 Hands-on Azure security engineering labs documenting the development of practical cloud security skills while preparing for the Microsoft SC-500 certification.
@@ -47,18 +45,38 @@ Note: These are independent hands-on labs and simulated environments created for
 
 Labs
 
-Lab	Focus	Status
-01	Microsoft Entra ID & Conditional Access	Planned
-02	Azure RBAC & PIM	Planned
-03	Azure Key Vault	Planned
-04	Azure Policy	Planned
-05	Storage Security	Planned
-06	Network Security	Planned
-07	Azure SQL Security	Planned
-08	VM Security	Planned
-09	Microsoft Defender for Cloud	Planned
-10	Microsoft Sentinel	Planned
-11	Enterprise Security Capstone	Planned
+Lab 01 — Microsoft Entra ID & Conditional Access
+Status: Planned
+
+Lab 02 — Azure RBAC & PIM
+Status: Planned
+
+Lab 03 — Azure Key Vault
+Status: Planned
+
+Lab 04 — Azure Policy
+Status: Planned
+
+Lab 05 — Storage Security
+Status: Planned
+
+Lab 06 — Network Security
+Status: Planned
+
+Lab 07 — Azure SQL Security
+Status: Planned
+
+Lab 08 — VM Security
+Status: Planned
+
+Lab 09 — Microsoft Defender for Cloud
+Status: Planned
+
+Lab 10 — Microsoft Sentinel
+Status: Planned
+
+Lab 11 — Enterprise Security Capstone
+Status: Planned
 
 Technologies
 
