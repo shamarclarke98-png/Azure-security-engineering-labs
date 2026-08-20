@@ -46,22 +46,22 @@ Note: These are independent hands-on labs and simulated environments created for
 Labs
 
 Lab 01 — Microsoft Entra ID & Conditional Access
-Status: Planned
+Status: done
 
 Lab 02 — Azure RBAC & PIM
-Status: Planned
+Status: done
 
 Lab 03 — Azure Key Vault
-Status: Planned
+Status: done
 
 Lab 04 — Azure Policy
-Status: Planned
+Status: done
 
 Lab 05 — Storage Security
-Status: Planned
+Status: done
 
 Lab 06 — Network Security
-Status: Planned
+Status: done
 
 Lab 07 — Azure SQL Security
 Status: Planned
